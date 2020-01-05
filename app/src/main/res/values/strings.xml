@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hollow Knight</string>
+    <string name="welcome_text">Bienvenido a la aplicación sobre el video juego Hollow Knight!\n\n Esta aplicación contiene información útil para guiar al jugador durante su aventura dentro del mundo de Hallownest.</string>
+    <string name="title_top">Top fragment</string>
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Armas</item>
+        <item>Hechizos</item>
+        <item>Amuletos</item>
+        <item>Enemigos</item>
+    </string-array>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="obtenido">Obtendio</string>
+    <string name="defeated">Derrotado</string>
+    <string name="difficulty">Nivel de dificultad:</string>
+</resources>
